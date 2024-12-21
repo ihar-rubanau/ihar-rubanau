@@ -16,8 +16,6 @@ Education
 
 Belarusian State University of Informatics and Radioelectronics, Minsk, Belarus — Bachelor's degree, Information security in telecommunications, Sep 2008 - Aug 2013
 
-KEY Skills
-
 Technical Skills:
 
 - Programming Languages: Swift, Objective-C, basic knowledge of C/C++
